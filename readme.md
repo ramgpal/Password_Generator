@@ -4,17 +4,20 @@ This is a simple password generator project that generates a random password usi
 ## Getting Started
 
 To get started with this project, 
- https://github.com/ramgpal/counterApp.git
+https://github.com/ramgpal/Password_Generator.git
  <br>
 through the above link you can simply download or clone the repository to your local machine. Once you have the files on your machine, you can open the index.html file in your web browser to view the password generator.
 
 ## How to Use
 
-Click -> http://lnkiy.in/password-generator <br>
-Select the desired length of your password using the slider or input field.<br>
-Check or uncheck the options to include or exclude uppercase letters, lowercase letters, numbers, and special characters.<br>
-Click the "Generate Password" button to generate a random password.<br>
-Your generated password will be displayed in the text area.<br>
+Click -> http://lnkiy.in/password-generator 
+<ol>
+<li>Select the desired length of your password using the slider or input field.</li>
+<li>Check or uncheck the options to include or exclude uppercase letters, lowercase letters, numbers, and special characters.</li>
+<li>Click the "Generate Password" button to generate a random password.</li>
+<li>Your generated password will be displayed in the text area.</li>
+</ol>
+
 ## Technologies Used
 
 <ol>
