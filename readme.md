@@ -1,12 +1,6 @@
 ## Password Generator
 This is a simple password generator project that generates a random password using mostly JavaScript with basic HTML styling in CSS. The user can select the length of the password and choose to include or exclude uppercase letters, lowercase letters, numbers, and special characters.
 
-## Getting Started
-
-To get started with this project, 
-https://github.com/ramgpal/Password_Generator.git
- <br>
-through the above link you can simply download or clone the repository to your local machine. Once you have the files on your machine, you can open the index.html file in your web browser to view the password generator.
 
 ## How to Use
 
