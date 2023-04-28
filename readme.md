@@ -4,7 +4,7 @@ This is a simple password generator project that generates a random password usi
 
 ## How to Use
 
-<b>Click -></b> http://lnkiy.in/Password-Generator
+<b>Click -></b> https://whimsical-stardust-a7d992.netlify.app/
 <ol>
 <li>Select the desired length of your password using the slider or input field.</li>
 <li>Check or uncheck the options to include or exclude uppercase letters, lowercase letters, numbers, and special characters.</li>
